@@ -1,0 +1,7 @@
+C:\Projetos\Sis\SisSolutions\obj\Debug\SisSolutions.csprojAssemblyReference.cache
+C:\Projetos\Sis\SisSolutions\obj\Debug\SisSolutions.csproj.CoreCompileInputs.cache
+C:\Projetos\Sis\SisSolutions\bin\Debug\SisSolutions.exe.config
+C:\Projetos\Sis\SisSolutions\bin\Debug\SisSolutions.exe
+C:\Projetos\Sis\SisSolutions\bin\Debug\SisSolutions.pdb
+C:\Projetos\Sis\SisSolutions\obj\Debug\SisSolutions.exe
+C:\Projetos\Sis\SisSolutions\obj\Debug\SisSolutions.pdb
